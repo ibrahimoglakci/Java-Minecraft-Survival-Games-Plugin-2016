@@ -1,0 +1,35 @@
+name: MineGamerSG
+author: WalkingUcak_
+version: 1.0
+main: me.minegamersg.Main.Main
+commands:
+  vote:
+    aliases: [v]
+  mgsgsetloc:
+  list:
+  chestselection:
+  hub:
+  stats:
+  minegamersgreload:
+  spectator:
+    aliases: [spec]
+  info:
+  bounty:
+  game:
+  forcestart:
+  setmapmenu:
+    aliases: [smm]
+  sponsor:
+    aliases: [sp]
+  tpworld:
+    aliases: [tw]
+  kill:
+    aliases: [murder]
+  build:
+  disguise:
+    aliases: [d]
+  sidebar:
+  fly:
+  chatcolor:
+    aliases: [cc]
+  
